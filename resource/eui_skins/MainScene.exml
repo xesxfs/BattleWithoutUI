@@ -3,65 +3,144 @@
 	<w:Config id="1655622222b" ></w:Config>
 	<e:Group left="0" right="0" top="0" bottom="0">
 		<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x888888" strokeWeight="1"/>
-		<e:Group height="200" top="0" left="0" right="0" x="0" y="0" scaleX="1" scaleY="1">
-			<e:Rect left="0" right="0" top="0" bottom="0" strokeWeight="3" fillColor="0xd1cccc"/>
-			<e:Group left="20" top="20">
+		<e:Group anchorOffsetY="0" left="0" right="0" top="0" bottom="160">
+			<e:Group height="200" top="0" left="0" right="0" x="0" y="0" scaleX="1" scaleY="1">
+				<e:Rect left="0" right="0" top="0" bottom="0" strokeWeight="3" fillColor="0xd1cccc"/>
+				<e:Group left="30" top="15">
 				<e:Label text="名字" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Label text="战斗无止境" textColor="0x747474" scaleX="1" scaleY="1" x="78.67" bold="true"/>
-			</e:Group>
-			<e:Group y="67" x="10" left="20">
+				</e:Group>
+				<e:Group y="61" left="30">
 				<e:Label text="种族" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Label text="矮人" textColor="0x747474" scaleX="1" scaleY="1" x="78.67" bold="true"/>
-			</e:Group>
-			<e:Group y="113" x="10" left="20">
+				</e:Group>
+				<e:Group x="529.02" y="61">
 				<e:Label text="年龄" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Label text="17" textColor="0x747474" scaleX="1" scaleY="1" x="78.67"/>
-			</e:Group>
-			<e:Group left="20" bottom="10">
-				<e:Label text="LV" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
+				</e:Group>
+				<e:Group x="291.33" y="61">
+				<e:Label text="LV" textColor="0x747474" scaleX="1" scaleY="1"/>
 				<e:Label text="9" textColor="0x747474" scaleX="1" scaleY="1" x="78.67"/>
-			</e:Group>
-			<e:Group x="509" bottom="101">
+				</e:Group>
+				<e:Group x="33.01" bottom="62">
 				<e:Label text="金钱" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Label text="123456789" textColor="0x747474" scaleX="1" scaleY="1" x="78.67"/>
-			</e:Group>
-			<e:Group x="286" y="68">
+				</e:Group>
+				<e:Group y="108" left="287">
 				<e:Label text="战斗力" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Label text="1234.52" textColor="0x747474" scaleX="1" scaleY="1" x="93.67"/>
-			</e:Group>
-			<e:Group x="179" y="153">
+				</e:Group>
+				<e:Group y="155.66" left="30">
 				<e:Label text="HP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Rect width="112.8" height="10" x="44.2" verticalCenter="0" fillColor="0x840d0d" anchorOffsetX="0" strokeWeight="1" strokeColor="0x840d0d" strokeAlpha="0.5"/>
-			</e:Group>
-			<e:Group x="369" y="153">
+				</e:Group>
+				<e:Group x="289" y="155.66">
 				<e:Label text="MP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Rect width="112.8" height="10" x="48.2" verticalCenter="0" anchorOffsetX="0" strokeWeight="1" fillColor="0x1889dd" strokeColor="0x1889dd" strokeAlpha="0.5"/>
-			</e:Group>
-			<e:Group x="559" y="153">
+				</e:Group>
+				<e:Group y="155.66" right="40">
 				<e:Label text="EXP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
 				<e:Rect width="112.8" height="10" x="67.2" verticalCenter="0" anchorOffsetX="0" strokeWeight="1" fillColor="0x7908aa" strokeColor="0x7908aa" strokeAlpha="0.5"/>
+				</e:Group>
+			</e:Group>
+			<e:Group height="218" left="0" right="0" top="200" x="0" y="200" scaleX="1" scaleY="1" anchorOffsetY="0">
+				<e:Group left="0" bottom="0" top="0" right="332" anchorOffsetX="0">
+				<e:Rect left="0" right="0" bottom="0" x="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeAlpha="1" strokeWeight="3" top="0"/>
+				<e:Label text="怪物" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="15" top="15"/>
+				<e:Label text="强大的" scaleX="1" scaleY="1" bold="true" textColor="0x51a52b" x="94" y="15"/>
+				<e:Label text="巨型蜘蛛" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="195" top="15"/>
+				<e:Label text="努力的" textColor="0x747474" scaleX="1" scaleY="1" bold="true" x="94" y="47.66" strokeColor="0xffffff" borderColor="0xdd1313" border="true"/>
+				<e:Group y="128.97" anchorOffsetX="0" width="228.33" left="15">
+					<e:Label text="HP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
+					<e:Rect width="170" height="10" x="52.2" verticalCenter="0" fillColor="0x840D0D" anchorOffsetX="0" strokeWeight="1" strokeColor="0x840D0D" strokeAlpha="0.5"/>
+				</e:Group>
+				<e:Group y="172.21" left="15">
+					<e:Label text="战斗力" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
+					<e:Label text="1234.52" textColor="0x747474" scaleX="1" scaleY="1" x="93.67"/>
+				</e:Group>
+				</e:Group>
+				<e:Group top="0" right="0" left="421" anchorOffsetX="0" bottom="0">
+				<e:Rect left="0" right="0" top="0" bottom="0" x="-386" y="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeWeight="3"/>
+				<e:Label text="宠物" textColor="0x747474" scaleX="1" scaleY="1" bold="true" x="16" y="15"/>
+				<e:Label text="灰狐狸" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="96" top="15"/>
+				<e:Label text="LV" textColor="0x747474" scaleX="1" scaleY="1" bold="true" x="21" y="60.66"/>
+				<e:Label text="15" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="101" top="60"/>
+				<e:Group y="160.98" x="16" anchorOffsetX="0" width="228.33">
+					<e:Label text="HP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
+					<e:Rect width="170" height="10" x="52.2" verticalCenter="0" fillColor="0x840D0D" anchorOffsetX="0" strokeWeight="1" strokeColor="0x840D0D" strokeAlpha="0.5"/>
+				</e:Group>
+				<e:Group y="110.32" x="16">
+					<e:Label text="EXP" textColor="0x747474" scaleX="1" scaleY="1" bold="true"/>
+					<e:Rect width="112.8" height="10" x="67.2" verticalCenter="0" anchorOffsetX="0" strokeWeight="1" fillColor="0x7908AA" strokeColor="0x7908AA" strokeAlpha="0.5"/>
+				</e:Group>
+				</e:Group>
+			</e:Group>
+			<e:Group left="1" right="0" bottom="0" anchorOffsetY="0" x="0" scaleX="1" scaleY="1" top="418">
+				<e:Group top="0" bottom="0" anchorOffsetX="0" right="211" left="0">
+				<e:Rect left="0" right="0" top="0" x="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeWeight="3" bottom="0"/>
+				<e:Scroller left="0" top="10" right="0" bottom="10">
+					<e:Group>
+					<e:Label text="[31:22] 你获得了$113." scaleX="1" scaleY="1" size="26" x="18.67" top="0" textColor="0x747474"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" scaleX="1" scaleY="1" size="26" x="28.67" top="0" y="10" textColor="0x747474"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" scaleX="1" scaleY="1" size="20" x="38.67" top="0" y="20" textColor="0x747474"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="38.67" top="0" y="20"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="48.67" top="0" y="30"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="48.67" top="0" y="30"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="58.67" top="0" y="40"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="58.67" top="0" y="40"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="68.67" top="0" y="50"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="68.67" top="0" y="50"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="78.67" top="0" y="60"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="78.67" top="0" y="60"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="88.67" top="0" y="70"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="88.67" top="0" y="70"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="98.67" top="0" y="80"/>
+					<e:Label text="[31:22] 你获得了$113." textColor="0x747474" scaleX="1" scaleY="1" size="26" x="18.67" top="0"/>
+					<e:Label text="[31:22] 你的宠物对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="26" x="98.67" top="0" y="80"/>
+					<e:Label text="[31:22] 你的宠物始用了进阶雷击.对小天冰婵造成了66!伤害" textColor="0x747474" scaleX="1" scaleY="1" size="20" x="108.67" top="0" y="90"/>
+					<e:layout>
+						<e:VerticalLayout paddingLeft="10" paddingTop="5" gap="9"/>
+					</e:layout>
+					</e:Group>
+				</e:Scroller>
+				</e:Group>
+				<e:Group width="210" anchorOffsetY="0" right="0" top="0" bottom="410">
+				<e:Rect left="0" right="0" top="0" bottom="0" x="-540" y="0" scaleX="1" scaleY="1" strokeWeight="3" fillColor="0xd1cccc" anchorOffsetY="0" strokeColor="0x444444"/>
+				<e:Label text="攻击" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="10" top="20" size="38"/>
+				<e:Label text="重击  27%" textColor="0x747474" scaleX="1" scaleY="1" left="20" top="61" size="30" bold="true"/>
+				<e:Label text="防御" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="10" top="113" size="38"/>
+				<e:Label text="反击  23%" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="20" top="154" size="30"/>
+				<e:Label text="防御  21%" textColor="0x747474" scaleX="1" scaleY="1" bold="true" left="20" top="191" size="30"/>
+				</e:Group>
+				<e:Group width="210" right="0" bottom="0" anchorOffsetY="0" top="347">
+				<e:Rect left="0" right="0" top="0" x="-540" scaleX="1" scaleY="1" fillColor="0xd1cccc" anchorOffsetY="0" strokeWeight="3" bottom="0"/>
+				<e:Label text="当前掉落" textColor="0x747474" scaleX="1" scaleY="1" bold="true" top="15" size="38" y="-422" anchorOffsetY="0" height="38" anchorOffsetX="0" left="10" textAlign="left" width="159"/>
+				<e:Label text="$" scaleX="1" scaleY="1" textColor="0xdd8752" size="26" x="18.67" y="70"/>
+				<e:Label text="EXP" scaleX="1" scaleY="1" size="26" x="18.67" y="109" textColor="0x5386db"/>
+				<e:Label text="普通" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="147" textColor="0x938d89"/>
+				<e:Label text="精品" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="186" textColor="0x15d32b"/>
+				<e:Label text="稀有" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="224" textColor="0x5358db"/>
+				<e:Label text="完美" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="263" textColor="0xc6b03f"/>
+				<e:Label text="史诗" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="301" textColor="0xce635f"/>
+				<e:Label text="传奇" scaleX="1" scaleY="1" bold="true" size="26" x="18.67" y="340" textColor="0x6948ea"/>
+				<e:Label text="8798787" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="69.99" textColor="0x747474" width="121" textAlign="center"/>
+				<e:Label text="58754" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="109" width="121" textAlign="center"/>
+				<e:Label text="19" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="148" width="121" textAlign="center"/>
+				<e:Label text="17" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="186" width="121" textAlign="center"/>
+				<e:Label text="10" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="225" width="121" textAlign="center"/>
+				<e:Label text="3" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="264" width="121" textAlign="center"/>
+				<e:Label text="1" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" x="80" y="303" width="121" textAlign="center"/>
+				<e:Label text="0" textColor="0x747474" scaleX="1" scaleY="1" bold="true" size="24" y="342.67" width="121" x="80" textAlign="center"/>
+				</e:Group>
 			</e:Group>
 		</e:Group>
-		<e:Group height="218" left="0" right="0" top="200" x="0" y="210" scaleX="1" scaleY="1" anchorOffsetY="0">
-			<e:Group left="0" bottom="0" top="0" right="364" anchorOffsetX="0">
-			<e:Rect left="0" right="0" bottom="0" x="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeAlpha="1" strokeWeight="3" top="0"/>
-			</e:Group>
-			<e:Group top="0" right="0" left="386" anchorOffsetX="0" bottom="0">
-			<e:Rect left="0" right="0" top="0" bottom="0" x="-386" y="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeWeight="3"/>
-			</e:Group>
-		</e:Group>
-		<e:Group left="0" right="0" bottom="162" anchorOffsetY="0" top="420" x="0" y="420" scaleX="1" scaleY="1">
-			<e:Group top="0" bottom="0" anchorOffsetX="0" right="211" left="0">
-			<e:Rect left="0" right="0" top="0" bottom="0" x="0" y="0" scaleX="1" scaleY="1" fillColor="0xd1cccc" strokeWeight="3"/>
-			</e:Group>
-			<e:Group width="210" anchorOffsetY="0" right="0" top="0" bottom="311">
-			<e:Rect left="0" right="0" top="0" bottom="0" x="-540" y="0" scaleX="1" scaleY="1" strokeWeight="3" fillColor="0xd1cccc" anchorOffsetY="0" strokeColor="0x444444"/>
-			</e:Group>
-			<e:Group width="210" right="0" bottom="0" anchorOffsetY="0" top="442">
-			<e:Rect left="0" right="0" top="0" bottom="0" x="-540" y="-398" scaleX="1" scaleY="1" fillColor="0xd1cccc" anchorOffsetY="0" strokeWeight="3"/>
-			</e:Group>
-		</e:Group>
-		<e:Group height="161" left="0" right="0" bottom="0" anchorOffsetY="0" x="0" y="1179" scaleX="1" scaleY="1">
+		<e:Group left="0" right="0" bottom="0" anchorOffsetY="0" x="0" scaleX="1" scaleY="1" top="1173">
 			<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0xd1cccc" strokeWeight="3"/>
 			<e:Group width="120" height="120" verticalCenter="0" left="30">
 				<e:Rect left="0" top="0" bottom="0" fillColor="0x777777" strokeWeight="5" right="0" strokeColor="0xfc9e05"/>
